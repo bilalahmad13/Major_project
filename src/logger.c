@@ -41,7 +41,7 @@ void addMood() {
     char nm[40];
     int mood, i;
     char note[200];
-    printf("PLEASE ENTER YOUR NAME (FIRST NAME ONLY) : ");
+    printf("PLEASE ENTER YOUR NAME : ");
     scanf("%s", nm);
     printf("\nHow do you feel today?\n");
     printf("1. Happy\n2. Sad\n3. Stressed\n4. Angry\n5. Neutral\n6. Anxious\n");
